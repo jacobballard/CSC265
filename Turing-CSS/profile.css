@@ -23,6 +23,6 @@ lab-box
 */
 
 person_info {
- align: right; 
+ text-align: right; 
  background: blue;
 }
