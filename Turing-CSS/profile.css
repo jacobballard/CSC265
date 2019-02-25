@@ -27,3 +27,15 @@ lab-box
  text-align: right; 
  background: green;
 }
+
+.day-box.PREP {
+    border-style: double;
+    margin-bottom: 10px;
+}
+
+.day {
+    font-weight: bold;
+    text-align: center;
+    border: solid;
+    border-width: 1px;
+}
