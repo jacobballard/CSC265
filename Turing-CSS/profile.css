@@ -38,4 +38,9 @@ lab-box
     text-align: center;
     border: solid;
     border-width: 1px;
+    margin: 1%;
+}
+
+.day-box.CURRENT {
+    border: double;
 }
