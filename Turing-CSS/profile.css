@@ -44,3 +44,7 @@ lab-box
 .day-box.CURRENT {
     border: double;
 }
+.day-box.COMPLETED {
+    border: double;
+    margin-top: 1%;
+}
