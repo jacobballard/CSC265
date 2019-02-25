@@ -48,3 +48,8 @@ lab-box
     border: double;
     margin-top: 1%;
 }
+
+.reading, .assignment-label, .assignment-title, .grade, . {
+    margin-left: 1%;
+}
+
