@@ -35,10 +35,16 @@ lab-box
 }
 
 .header a {
-    display: block;
     border: solid;
     padding: 4px 4px 4px;
     background: #c898da4d;
+}
+
+a {
+    border: solid;
+    padding: 4px 4px 4px;
+    background: #c898da4d;
+    display: block;
 }
 
 a:hover {
