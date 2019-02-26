@@ -83,10 +83,6 @@ a:hover {
     background: #c898da4d;
 }
 
-.reading, .assignment-label, .assignment-title, .grade {
-    margin-left: 1%;
-}
-
 .assignment-title {
     font-size: 18px;
 }
