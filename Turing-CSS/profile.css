@@ -48,10 +48,14 @@ a {
     display: block;
 }
 
+.header a:hover {
+    background: #c898da;
+    display: -webkit-inline-box;
+}
+
 a:hover {
     background: #c898da;
     display: block;
- 
 }
 
 .day-box.PREP {
