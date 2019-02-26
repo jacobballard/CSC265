@@ -36,13 +36,15 @@ lab-box
 
 a {
     display: block;
-    width: 100%;
+    border: solid;
     padding: 4px 4px 4px;
  
 }
 
 a:hover {
     background: #c898da;
+    display: block;
+ 
 }
 
 .day-box.PREP {
