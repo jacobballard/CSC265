@@ -26,12 +26,15 @@ lab-box
 {
  text-align: right;
 }
+
 //center text navigation & space out links
+
 .nav {
     text-align: center;
     background: #c898da4d;
 }
-.li a {
+
+a {
     display: block;
     width: 100%;
     padding: 4px 4px 4px;
