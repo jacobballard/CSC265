@@ -23,7 +23,12 @@ lab-box
 */
 
 .person_info {
- text-align: right;
+   text-align: left;
+   padding: 1%;
+}
+
+.username {
+    padding: 1%;
 }
 
 //center text navigation & space out links
