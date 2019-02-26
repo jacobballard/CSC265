@@ -41,7 +41,7 @@ a {
  
 }
 
-.li a:hover {
+a:hover {
     background: #c898da;
     padding: 7px;
 }
