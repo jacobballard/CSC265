@@ -22,14 +22,14 @@ lab-box
 
 */
 
-.person_info 
-{
+.person_info {
  text-align: right;
 }
 
 //center text navigation & space out links
 
 .nav {
+    border: double;
     text-align: center;
     background: #c898da4d;
 }
