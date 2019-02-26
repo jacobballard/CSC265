@@ -24,13 +24,29 @@ lab-box
 
 .person_info 
 {
- text-align: right; 
- background: blue;
+ text-align: right;
+}
+//center text navigation & space out links
+.nav {
+    text-align: center;
+    background: #c898da4d;
+}
+.li a {
+    display: block;
+    width: 100%;
+    padding: 4px 4px 4px;
+ 
+}
+
+.li a:hover {
+    background: #c898da;
+    padding: 7px;
 }
 
 .day-box.PREP {
     border-style: double;
     margin-bottom: 10px;
+    background: #c898da4d;
 }
 
 .day {
@@ -39,14 +55,17 @@ lab-box
     border: solid;
     border-width: 1px;
     margin: 1%;
+    background: #c898da4d;
 }
 
 .day-box.CURRENT {
     border: double;
+    background: #c898da4d;
 }
 .day-box.COMPLETED {
     border: double;
     margin-top: 1%;
+    background: #c898da4d;
 }
 
 .reading, .assignment-label, .assignment-title, .grade {
@@ -55,5 +74,10 @@ lab-box
 
 .assignment-title {
     font-size: 18px;
+}
+
+img.person_image {
+    height: 170px;
+    width: auto;
 }
 
